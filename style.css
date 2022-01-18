@@ -1,0 +1,59 @@
+.illuminati {
+  height: 60px;
+  width: 60;
+}
+.minari {
+  height: 58px;
+  width: 64.25;
+  margin-top: auto;
+}
+.green {
+  color: darkgreen;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  margin-top: 110px;
+}
+.illu {
+  float: right;
+  text-align: right;
+  display: block;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  text-align: center;
+  margin: 0 auto;
+  margin-left: 74px;
+}
+.right {
+  margin-top: 60px;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+.border {
+  border-style: solid !important;
+  border-width: 3px !important;
+  border-color: rgba(0, 100, 0, 0.445) !important;
+}
+.mgr20 {
+  margin-right: 20px;
+}
+.abel {
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+  color: rgb(82, 82, 82);
+  text-decoration: none;
+}
+.mark {
+  background-color: greenyellow;
+}
+.min {
+  float: right;
+}
